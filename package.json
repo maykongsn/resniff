@@ -1,0 +1,18 @@
+{
+  "name": "resniff",
+  "version": "1.0.0",
+  "description": "A prototype tool do detect code smells in ReScript.",
+  "main": "lib/index.js",
+  "scripts": {
+    "run": "node lib/index.js test",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "Maykon",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/parser": "^7.28.0",
+    "@babel/traverse": "^7.28.0"
+  }
+}
