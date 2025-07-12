@@ -1,3 +1,3 @@
 # ReSniff
 
-WIP
+ReScript detection tool
